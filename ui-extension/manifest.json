@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Technical Terms Saver",
+    "version": "1.0",
+    "description": "Save and manage technical terms related to programming.",
+    "permissions": [
+        "storage",
+        "activeTab"
+    ],
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
